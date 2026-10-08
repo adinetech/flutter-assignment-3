@@ -45,7 +45,7 @@ class IdCardScreen extends StatelessWidget {
   const IdCardScreen({super.key});
 
   // Personal Information details as specified in the assignment
-  static const String name = 'Adine Vikas'; // Replace with your name if desired
+  static const String name = 'Adine';
   static const String profession = 'Software Developer';
   static const String location = 'Mumbai, India';
   static const String age = '21 Years';
